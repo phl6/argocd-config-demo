@@ -1,9 +1,9 @@
 ### This is a follow-along project of 
 
 [Youtube: ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes](https://www.youtube.com/watch?v=MeU5_k9ssrs)<br />
-[Source: GitLab](https://gitlab.com/nanuchi/argocd-app-config)
-[ArgoCD Doc](https://argo-cd.readthedocs.io/en/stable/getting_started/)
-[ArgoCD Declarative Setup Example](https://argo-cd.readthedocs.io/en/stable/getting_started/)
+[Source: GitLab](https://gitlab.com/nanuchi/argocd-app-config)<br />
+[ArgoCD Doc](https://argo-cd.readthedocs.io/en/stable/getting_started/)<br />
+[ArgoCD Declarative Setup Example](https://argo-cd.readthedocs.io/en/stable/getting_started/)<br />
 
 ```bash
 # install ArgoCD in k8s
